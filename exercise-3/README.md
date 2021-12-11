@@ -1,0 +1,1 @@
+Le trosieme exercice démarre commence comme le premier mais nous devons rajouter un if-else pour trouver si le parametre est un dossier ou un fichier. En correspondance de la sortie nous devons afficher ou non le ls. :)
